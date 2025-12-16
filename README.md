@@ -1,6 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO%20&fontSize=90)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F73F1F&typeSpeed=80&deleteSpeed=50&pause=00&center=true&vCenter=true&width=900&weight=700&size=32&lines=Hello;Pranam;Namaste;Namaskaram;Khamma+Ghanni;Kem+Cho;Namaskar;Vanakkam;Namaskara;Nomoskar;Ram+Ram;Sat+Sri+Akal;Johar;Salaam;Adaab;Tashi+Delek;" />
+</p>
+
+
    <h2 align="center"> I'm Aditya Karn! 
 </h2>
 <p align="center">
