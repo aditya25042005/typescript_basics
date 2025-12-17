@@ -1,14 +1,23 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header%20&fontSize=90)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F73F1F&typeSpeed=80&deleteSpeed=50&pause=00&center=true&vCenter=true&width=900&weight=700&size=32&lines=Hello;Pranam;Namaste;Namaskaram;Khamma+Ghanni;Kem+Cho;Namaskar;Vanakkam;Namaskara;Nomoskar;Ram+Ram;Sat+Sri+Akal;Johar;Salaam;Adaab;Tashi+Delek;" />
 </p>
-
-
-   <h2 align="center"> I'm Aditya Karn! 
-</h2>
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FFFFFF&typeSpeed=80&pause=10000000&center=true&vCenter=true&width=900&loop=false&weight=700&size=32&lines=I'm%20Aditya%20Karn;" />
+</p>
+
+   
+
+  <h2 align="center">
+    <img src="https://komarev.com/ghpvc/?username=aditya25042005&label=VIEWS&color=blue&style=flat" alt="Views" valign="middle" />
+</h2>
+
+</span>
+<p align="center">
+  
+
 <a href="">
   <img height="50" src="https://github.com/aditya25042005/typescript_basics/blob/main/sphere_5853746.png"/>
 </a>
@@ -21,6 +30,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
+
 
 <p>
   <em>
