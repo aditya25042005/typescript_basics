@@ -24,9 +24,13 @@
 
 <p>
   <em>
-    Computer Science Undergraduate | Full-Stack Developer | SCALABLE SYSTEMS|CYBER ENTHUSIAST
+    🎓 Computer Science student | 💻 Full Stack Developer | 🔐 Cyber Security Enthusiast
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
+  
+  > Building applications and convincing bugs to leave peacefully 🤝🐛
+
+  
 </p>
 
 
@@ -40,22 +44,70 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class Learner:
 
     def __init__(self):
         self.name = "Aditya Karn"
-        self.role = "Computer Science Undergraduate | Full-Stack Developer"
-        self.language_spoken = ["en_US", "hi_IN"]
+        self.location = "India"
+        self.current_status = "Third-year Computer Science undergrad"
+
+        self.education = [
+        "Bachelor's in Computer Science, specializing in Cyber Security (Pursuing)"
+
+        ]
+
+        self.fields_of_interests = [
+            "Web Application Development",
+            "Backend Systems",
+            "Cyber Security",
+            "Distributed Systems",
+            "Cloud & DevOps",
+        ]
+
+        self.technical_background = [
+            "Full Stack Application Developer",
+            "Backend Developer (Python / Flask / Django/Node.js)",
+            "Frontend Developer (React / Next.js)",
+            "Database Design (PostgreSQL, MongoDB)",
+            "Caching & Messaging (Redis, Kafka,Celery)",
+            "Authentication & Security Systems",
+        ]
+
+        self.currently_learning = [
+            "Cyber Security Fundamentals",
+            "Distributed Systems",
+            "Kafka Streams",
+            "Advanced Redis",
+        ]
+
+        self.goals_2025 = [
+            "Build scalable applications",
+            "Master backend & security concepts",
+            "Work with event-driven systems",
+            "Get hands-on with Cloud & DevOps"
+        ]
+
+        self.hobbies = [
+            "Coding",
+            "Breaking things & fixing them",
+            "Late-night debugging",
+            "Hackathons",
+            "Tech exploration",
+        ]
+
+        self.languages_spoken = ["en_US", "hi_IN"]
 
     def say_hi(self):
         print(
-            "Thanks for stopping by! I enjoy building scalable systems, "
-            "secure platforms, and learning through real-world projects."
+            "Hi there! I'm Aditya — a CSY student who enjoys building applications, "
+            "optimizing backend systems, and making things scalable, secure, "
+            "and slightly less buggy than before 😄"
         )
 
 
-me = SoftwareEngineer()
+me = Learner()
 me.say_hi()
+
 ```
 
 👇 Run this in your terminal to know more about me:
