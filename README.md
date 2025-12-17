@@ -152,5 +152,5 @@ me.say_hi()
 [![Top Langs](https://github-readme-stats-eight-sigma-75.vercel.app/api/top-langs/?username=aditya25042005&layout=pie&theme=midnight-purple)](https://github.com/aditya25042005)
 
 
-![Snake animation](https://github.com/aditya25042005/aditya25042005/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aditya25042005/typescript_basics/blob/output/github-contribution-grid-snake.svg)
 
