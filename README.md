@@ -144,11 +144,12 @@ me.say_hi()
 ## 📊 GitHub Stats:
 
 <div align='center'>
-   
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya25042005&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github)
+  
+![ GitHub stats](https://github-readme-stats-eight-sigma-75.vercel.app/api?username=aditya25042005&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github&include_all_commits=true&count_private=true&commits_year=2025)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya25042005&layout=pie&theme=midnight-purple)](https://github.com/aditya25042005)
+
+[![Top Langs](https://github-readme-stats-eight-sigma-75.vercel.app/api/top-langs/?username=aditya25042005&layout=pie&theme=midnight-purple)](https://github.com/aditya25042005)
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
