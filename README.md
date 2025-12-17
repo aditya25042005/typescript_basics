@@ -9,15 +9,15 @@
    <h2 align="center"> I'm Aditya Karn! 
 </h2>
 <p align="center">
-<a href="https://piyushmalhotra.netlify.app/">
+<a href="">
   <img height="50" src="https://github.com/aditya25042005/typescript_basics/blob/main/sphere_5853746.png"/>
 </a>
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
+<a href="https://www.linkedin.com/in/aditya-karn-5b058b316/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/adityakarn0001">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
@@ -110,12 +110,10 @@ me.say_hi()
 
 ```
 
-👇 Run this in your terminal to know more about me:
 
-```bash
-##npx aditya-karn
 
-```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people — if you’re into exploring new tech or just want to chat, feel free to Connect. I’d love that</b> :)</em>
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -150,7 +148,9 @@ me.say_hi()
 
 
 [![Top Langs](https://github-readme-stats-eight-sigma-75.vercel.app/api/top-langs/?username=aditya25042005&layout=pie&theme=midnight-purple)](https://github.com/aditya25042005)
+</div>
 
+## Feeding...
+![Snake animation](https://github.com/aditya25042005/typescript_basics/blob/output/github-contribution-grid-snake-dark.svg?v=2)
 
-![Snake animation](https://github.com/aditya25042005/typescript_basics/blob/output/github-contribution-grid-snake.svg?v=2)
 
