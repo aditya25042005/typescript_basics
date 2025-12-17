@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HELLO%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header%20&fontSize=90)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F73F1F&typeSpeed=80&deleteSpeed=50&pause=00&center=true&vCenter=true&width=900&weight=700&size=32&lines=Hello;Pranam;Namaste;Namaskaram;Khamma+Ghanni;Kem+Cho;Namaskar;Vanakkam;Namaskara;Nomoskar;Ram+Ram;Sat+Sri+Akal;Johar;Salaam;Adaab;Tashi+Delek;" />
@@ -152,5 +152,6 @@ me.say_hi()
 
 ## Feeding...
 ![Snake animation](https://github.com/aditya25042005/typescript_basics/blob/output/github-contribution-grid-snake-dark.svg?v=2)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=THANK%20YOU&fontAlignY=85)
 
 
